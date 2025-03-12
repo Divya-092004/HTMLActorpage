@@ -1,4 +1,0 @@
-<center>
-<h1>divya</h1>
-</center>
-<hr>
